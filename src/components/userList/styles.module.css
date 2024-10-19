@@ -1,0 +1,14 @@
+.container_list {
+  border: 2px solid rgb(194, 190, 190);
+  width: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 50px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px 8px 16px rgba(0, 0, 0, 0.05);
+}
+.container_list > h1 {
+  margin-bottom: 10px;
+}
